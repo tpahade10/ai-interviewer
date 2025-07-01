@@ -7,14 +7,6 @@
   Mock Interview Simulator with AI-Powered Feedback
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/tmeyer_me">
-    <img src="https://img.shields.io/twitter/follow/tmeyer_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Tyler Meyer's follower count" />
-  </a>
-  <a href="https://github.com/Tameyer41/liftoff">
-    <img src="https://img.shields.io/github/stars/Tameyer41/liftoff?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
-  </a>
-</p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
