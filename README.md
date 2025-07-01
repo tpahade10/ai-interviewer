@@ -72,6 +72,3 @@ Liftoff uses FFmpeg to transcode the raw video into MP3. Chrome, Safari, and Fir
 
 We then send the audio directly to be transcribed by OpenAI's Whisper endpoint, and then stream feedback from the edge using OpenAI's gpt-3.5-turbo.
 
-## Author
-
-- Tyler Meyer ([@tmeyer_me](https://twitter.com/tmeyer_me))
